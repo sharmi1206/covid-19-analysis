@@ -3,9 +3,9 @@ Covid-19 India's statewide analysis with census data 2011 and Kaggle data
 
 Notebook covid-19-data-discovery.ipynb contains analysis of statewise data (Population density, Literacy rate, Elderly population Rate, Number of International Airports per State, How busy the international Airports are in terms of number of passengers traveling per million through it).
 
-covid-19-data-discovery.ipynb contains number of districts effected per state, number of red , green , orange zones received till 1st May and their relation with number of Active , Confirmed cases and number of deaths.
+covid-19-data-discovery.ipynb contains number of districts effected per state, number of Red , Green , Orange zones received till 1st May and their relation with number of Active , Confirmed cases and number of deaths.
 
-The co-relation map of allo the above stated features with number of Active , Confirmed cases and number of deaths and Recovery rate.
+The co-relation map of all the above stated features with number of Active , Confirmed cases and Number of deaths and Recovery rates.
 
 
 covid-19-tseries-pred.ipynb. contains the following regression and Time series analyis.

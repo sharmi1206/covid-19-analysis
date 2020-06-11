@@ -7,7 +7,6 @@ covid-19-data-discovery.ipynb contains number of districts effected per state, n
 
 The co-relation map of all the above stated features with number of Active , Confirmed cases and Number of deaths and Recovery rates.
 
-
 covid-19-tseries-pred.ipynb. contains the following regression and Time series analyis.
 
 1. Linear Regression
@@ -20,6 +19,4 @@ covid-19-tseries-pred.ipynb. contains the following regression and Time series a
 8. AR, MA, ARIMA, SARIMA  using VARMAX Modeling
 9. Facebook's Prophet Model
 
-Working on
-
-LSTM based deep learning to include more features
+tseries_analysis_full_singlestep_forecats.ipynb contains deep lesrning bassed analysis using 1.LSTM , 2. CNN and 3. LSTM+CNN. It's single step time series based prediction using data from folder covid-19-latest_6_june.  

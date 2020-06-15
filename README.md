@@ -23,3 +23,5 @@ tseries_analysis_full_singlestep_forecats.ipynb contains deep learning bassed an
 
 ts_dlearn_mstep_forecats.ipynb contains deep learning bassed analysis using 1.LSTM , 2. CNN, 3. LSTM+CNN and 4.CONV2LSTM.  It's multi-step time series based prediction using original data from folder covid-19-latest_6_june. However the processed data are stored in all_states folder from the previous jupyter notebook (tseries_analysis_full_singlestep_forecats.ipynb).
 
+In the last 2 notebooks, you need to change the "path" variable to the folder directory where covid-19-analysis is stored
+

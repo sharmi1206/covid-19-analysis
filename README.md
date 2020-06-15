@@ -19,4 +19,7 @@ covid-19-tseries-pred.ipynb. contains the following regression and Time series a
 8. AR, MA, ARIMA, SARIMA  using VARMAX Modeling
 9. Facebook's Prophet Model
 
-tseries_analysis_full_singlestep_forecats.ipynb contains deep lesrning bassed analysis using 1.LSTM , 2. CNN and 3. LSTM+CNN. It's single step time series based prediction using data from folder covid-19-latest_6_june.  
+tseries_analysis_full_singlestep_forecats.ipynb contains deep learning bassed analysis using 1.LSTM , 2. CNN and 3. LSTM+CNN. It's single step time series based prediction using data from folder covid-19-latest_6_june.  
+
+ts_dlearn_mstep_forecats.ipynb contains deep learning bassed analysis using 1.LSTM , 2. CNN, 3. LSTM+CNN and 4.CONV2LSTM.  It's multi-step time series based prediction using original data from folder covid-19-latest_6_june. However the processed data are stored in all_states folder from the previous jupyter notebook (tseries_analysis_full_singlestep_forecats.ipynb).
+
